@@ -1,3 +1,4 @@
 node_modules
-# perms.json
+perms.json
+config.json
 .env
