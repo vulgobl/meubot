@@ -1,0 +1,176 @@
+{
+    "HOST | 35 | SLOTS": {
+        "idproduto": "HOST | 35 | SLOTS",
+        "titulo": "HOST | 35 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 35 | SLOTS",
+        "valor": 2,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 50 | SLOTS": {
+        "idproduto": "HOST | 50 | SLOTS",
+        "titulo": "HOST | 50 | SLOTS ",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 50 | SLOTS",
+        "valor": 5,
+        "estoque": [
+            1,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 150 | SLOTS": {
+        "idproduto": "HOST | 150 | SLOTS",
+        "titulo": "HOST | 150 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 150 | SLOTS",
+        "valor": 11,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 100 | SLOTS": {
+        "idproduto": "HOST | 100 | SLOTS",
+        "titulo": "HOST | 100 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 100 | SLOTS",
+        "valor": 7,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 200 | SLOTS": {
+        "idproduto": "HOST | 200 | SLOTS",
+        "titulo": "HOST | 200 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 200 | SLOTS",
+        "valor": 10,
+        "estoque": [
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 250 | SLOTS": {
+        "idproduto": "HOST | 250 | SLOTS",
+        "titulo": "HOST | 250 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 250 | SLOTS",
+        "valor": 14,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 300 | SLOTS": {
+        "idproduto": "HOST | 300 | SLOTS",
+        "titulo": "HOST | 300 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 300 | SLOTS",
+        "valor": 17,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 350 | SLOTS": {
+        "idproduto": "HOST | 350 | SLOTS",
+        "titulo": "HOST | 350 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 350 | SLOTS",
+        "valor": 19,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "HOST | 400 | SLOTS": {
+        "idproduto": "HOST | 400 | SLOTS",
+        "titulo": "HOST | 400 | SLOTS",
+        "desc": "DISPONIVEL!",
+        "nome": "HOST | 400 | SLOTS",
+        "valor": 21,
+        "estoque": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    },
+    "GM NEW FIRE 2024 BASE": {
+        "idproduto": "GM NEW FIRE 2024 BASE",
+        "titulo": "GM NEW FIRE 2024 BASE",
+        "desc": "DISPONIVEL!",
+        "nome": "GM NEW FIRE 2024 BASE",
+        "valor": 30,
+        "estoque": [
+            9
+        ],
+        "minimo": 1,
+        "banner": "remover"
+    }
+}

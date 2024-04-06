@@ -1,0 +1,18 @@
+{
+    "HOST": {
+        "idpn": "HOST",
+        "titulo": "HOST",
+        "desc": "COMPRE SUA HOST",
+        "pd": [
+            "HOST | 35 | SLOTS",
+            "HOST | 50 | SLOTS",
+            "HOST | 100 | SLOTS",
+            "HOST | 150 | SLOTS",
+            "HOST | 200 | SLOTS",
+            "HOST | 250 | SLOTS",
+            "HOST | 300 | SLOTS",
+            "HOST | 350 | SLOTS",
+            "HOST | 400 | SLOTS"
+        ]
+    }
+}

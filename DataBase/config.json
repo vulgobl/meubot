@@ -1,0 +1,12 @@
+{
+    "canal_logs":"",
+    "categoria_carrinho":"",
+    "cargo":"",
+    "cargoperm":"",
+    "pix": {
+        "chave_pix":"",
+        "qrcode":""
+    },
+    "termos":"",
+    "owner":""
+}
